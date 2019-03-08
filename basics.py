@@ -24,3 +24,7 @@ num1 = 8
 num2 = 14
 
 print("The sum of the two numbers is : ",num1+num2)
+
+#printing 2 statemets in a single line
+print("Noordeen",end=' ')
+print("Malango")
