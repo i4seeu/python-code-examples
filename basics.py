@@ -19,4 +19,8 @@ print("Your name is :", name)
 number = eval(input("Enter a number :"))
 print("The square of the numbeer you have entered is : ",number*number)
 
+#variables
+num1 = 8
+num2 = 14
 
+print("The sum of the two numbers is : ",num1+num2)
