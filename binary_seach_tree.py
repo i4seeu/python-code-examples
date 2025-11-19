@@ -135,7 +135,6 @@ NAMES = [
 	"Samuel",
 ]
 
-__all__ = ["NAMES"]
 
 
 ## lets do a birnary search tree implementation here
